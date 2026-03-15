@@ -1,2 +1,2 @@
 # una-algprog-lista03
-A importância de escolher o tipo de dado correto para a variável
+A importância de escolher o tipo de dado correto, entre Real e Inteiro, para a variável em sistemas financeiros ou científicos busca garantir o controle da qualidade do software. A precisão dos dados — se um valor é exato (inteiro) ou fracionado (real) — define a confiabilidade de todo o sistema. Em programas financeiros e científicos, os dados registrados, geralmente, possuem casas decimais e, caso sejam arredondados, impactam na precisão das transações e dos resultados.
